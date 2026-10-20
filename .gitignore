@@ -1,0 +1,19 @@
+# Device secrets: never commit these
+identity.json
+pairing.json
+sdk_token.txt
+.sdk_token
+**/identity.json
+**/pairing.json
+**/sdk_token.txt
+**/.sdk_token
+
+# Build artifacts
+target/
+toolchain/
+*.PBP
+dist/
+
+# OS and editor files
+.DS_Store
+*.swp
