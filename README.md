@@ -1,3 +1,5 @@
+English | [繁體中文](README.zh-TW.md)
+
 # psp-muse
 
 **A 2008 PSP-3000, reborn as a voice terminal for Meta Muse.**
