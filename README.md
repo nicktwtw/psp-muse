@@ -35,9 +35,9 @@ Built for the **Meta Global AI Developer Hackathon** (Indie track).
 - [x] EBOOT builds and boots on real hardware (Rust port)
 - [x] Custom avatar generated and rendering
 - [x] SDK token issued; one-time BLE pairing completed
-- [ ] Install device identity to the memory stick and verify online state
-- [ ] First end-to-end voice conversation on the PSP
-- [ ] Demo video
+- [x] Install device identity to the memory stick and verify online state
+- [x] First end-to-end voice conversation on the PSP
+- [x] Demo video (70 seconds, checked)
 
 ## Security note
 
